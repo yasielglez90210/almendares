@@ -1,0 +1,176 @@
+# Copyright (C) 2014 the WordPress team
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Almendares 1.0\n"
+"POT-Creation-Date: 2017-06-05\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2014-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: Videos Destacados
+msgid "Videos Destacados"
+msgstr ""
+
+#: ¿Quienes somos?
+msgid "Quienes somos"
+msgstr ""
+
+#: ¿Quienes somos? - Respuesta
+msgid "Quienes somos - Respuesta"
+msgstr ""
+
+#: Leer mas
+msgid "Leer mas"
+msgstr ""
+
+#: La experiencia y preparacion...
+msgid "La experiencia"
+msgstr ""
+
+#: Con Producciones...
+msgid "Con Producciones"
+msgstr ""
+
+#: Especialistas de alto nivel
+msgid "Especialistas"
+msgstr ""
+
+#: Tecnologia de punta
+msgid "Tecnologia"
+msgstr ""
+
+#: Costos de rodaje por debajo de la media internacional
+msgid "Costos"
+msgstr ""
+
+#: Ponemos a su alcance...
+msgid "Ponemos"
+msgstr ""
+
+#: ¿Que necesito saber para filmar en Cuba?
+msgid "Filmar en Cuba"
+msgstr ""
+
+#: Locaciones
+msgid "Locaciones"
+msgstr ""
+
+#: Ver mas
+msgid "Ver mas"
+msgstr ""
+
+#: Directora General
+msgid "Directora"
+msgstr ""
+
+#: Nosotros
+msgid "Nosotros"
+msgstr ""
+
+#: Nosotros - Valor
+msgid "Nosotros - Valor"
+msgstr ""
+
+#: Contacto
+msgid "Contacto"
+msgstr ""
+
+#: Redes Sociales
+msgid "Redes Sociales"
+msgstr ""
+
+#: Siguiente
+msgid "Siguiente"
+msgstr ""
+
+#: Anterior
+msgid "Anterior"
+msgstr ""
+
+#: No hay comentarios
+msgid "No hay comentarios"
+msgstr ""
+
+#: 1 Comentario
+msgid "1 Comentario"
+msgstr ""
+
+#: Comentarios
+msgid "Comentarios"
+msgstr ""
+
+#: Comentarios cerrados
+msgid "Comentarios cerrados"
+msgstr ""
+
+#: Publicado hace
+msgid "Publicado hace"
+msgstr ""
+
+#: Envienos su Mensaje
+msgid "Envienos su Mensaje"
+msgstr ""
+
+#: Nombre
+msgid "Nombre"
+msgstr ""
+
+#: Nombre - Validar
+msgid "Nombre - Validar"
+msgstr ""
+
+#: Correo
+msgid "Correo"
+msgstr ""
+
+#: Correo - Validar
+msgid "Correo - Validar"
+msgstr ""
+
+#: Mensaje
+msgid "Mensaje"
+msgstr ""
+
+#: Mensaje - Validar
+msgid "Mensaje - Validar"
+msgstr ""
+
+#: Enviar
+msgid "Enviar"
+msgstr ""
+
+#: Enviando Mensaje
+msgid "Enviando Mensaje"
+msgstr ""
+
+#: Mensaje Enviando
+msgid "Mensaje Enviando"
+msgstr ""
+
+#: Ocurrio un poblema
+msgid "Ocurrio un poblema"
+msgstr ""
+
+#: Lo sentimos
+msgid "Lo sentimos"
+msgstr ""
+
+#: Pagina no encontrada
+msgid "Pagina no encontrada"
+msgstr ""
+
+#: El link esta roto
+msgid "El link esta roto"
+msgstr ""
+
+#: Inicio
+msgid "Inicio"
+msgstr ""
+
+#: Direccion
+msgid "Direccion"
+msgstr ""
